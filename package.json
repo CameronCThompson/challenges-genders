@@ -1,0 +1,15 @@
+{
+  "name": "genders",
+  "version": "1.0.0",
+  "description": "List genders based on name using the namsor api\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Thompson",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
